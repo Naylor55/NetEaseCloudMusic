@@ -155,7 +155,7 @@
                                 <Label Content="右侧内容" Height="100" Foreground="White"></Label>
                                 <Label Content="右侧内容" Height="100" Foreground="White"></Label>
                                 <Label Content="右侧内容" Height="100" Foreground="White"></Label>
-                                <Label Content="右侧内容" Height="100" Foreground="White"></Label>
+                              
                             </StackPanel>
                         </ScrollViewer>
 

@@ -1,0 +1,6 @@
+/bin/
+/packages/
+/obj/
+*.mp4
+/.vs/
+*.user

@@ -23,5 +23,16 @@ namespace NetEaseCloudMusic
         {
             InitializeComponent();
         }
+
+        /// <summary>
+        /// 顶部鼠标左键按下事件
+        /// 拖动窗体
+        /// </summary>
+        /// <param name="sender"></param>
+        /// <param name="e"></param>
+        private void top_MouseLeftButtonDown(object sender, MouseButtonEventArgs e)
+        {
+            base.DragMove();
+        }
     }
 }
